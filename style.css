@@ -27,7 +27,7 @@ body {
   border-radius: 20px;
   font-size: 30px;
   background-color: #f8f1f162;
-  color: rgb(235, 229, 229);
+  color: rgb(53, 47, 47);
   width: calc(100% -70px);
 }
 .img-busca {
@@ -38,7 +38,7 @@ body {
   outline: none;
   padding: 10px;
   border-radius: 50px;
-  background-color: #f2eeee2b;
+  background-color: #f2eeee71;
   cursor: pointer;
   float: right;
 }
